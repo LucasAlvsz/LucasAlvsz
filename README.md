@@ -1,11 +1,25 @@
-## Olá :p Seja bem-vindo! 👋
+## Olá :p  
 <a href="https://www.linkedin.com/in/lucas-alves-rodrigues-b75163230/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="contato.lucasalv@gmail.com">
-  <img align="left" alt="Abhishek's Spotify" width="29px" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-3.png" />
+<br/>
+<br/>
+
+```yaml
+const Lucas = {
+    nome: Lucas Alves Rodrigues,
+    localização: Brasília, DF,
+    formação: ["Graduando em Engenharia Mecatrônica - UnB", "Desenvolvedor Web Full-Stack em formação - Driven"]
+    hobbies: ["Música", "Cinema", "Jogos Competitivos", "Audiofilia"]
+}
+```
+<a href="https://github.com/LucasAlvsz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark" />
 </a>
-###  Fique avontade ☕
+  
+
+
 
 <!--
 **LucasAlvz/LucasAlvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
