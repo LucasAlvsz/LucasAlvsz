@@ -5,14 +5,17 @@
 <br/>
 <br/>
 
+### Me:
+
 ```yaml
-const Lucas = {
+const Me = {
     nome: Lucas Alves Rodrigues,
     localização: Brasília, DF,
     formação: ["Graduando em Engenharia Mecatrônica - UnB", "Desenvolvedor Web Full-Stack em formação - Driven"]
     hobbies: ["Música", "Cinema", "Jogos Competitivos", "Audiofilia"]
 }
 ```
+### Git-Hub Status:
 <a href="https://github.com/LucasAlvsz/github-readme-stats">
   
   <pre><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark"/>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&theme=dark" /></pre>
@@ -20,10 +23,13 @@ const Lucas = {
 </a>
   
 ### Linguagens e Ferramentas:
-<img align="left" alt="Visual Studio Code" height ="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
-
+<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<br/>
+<br/>
 
 <!--
 **LucasAlvz/LucasAlvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
