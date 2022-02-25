@@ -1,4 +1,11 @@
-### Hi there 👋
+## Olá :p Seja bem-vindo! 👋
+<a href="https://www.linkedin.com/in/lucas-alves-rodrigues-b75163230/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="contato.lucasalv@gmail.com">
+  <img align="left" alt="Abhishek's Spotify" width="29px" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon-3.png" />
+</a>
+###  Fique avontade ☕
 
 <!--
 **LucasAlvz/LucasAlvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
