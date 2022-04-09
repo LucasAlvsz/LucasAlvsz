@@ -1,5 +1,5 @@
 ## Olá :p  
-<a href="https://www.linkedin.com/in/lucas-alves-rodrigues-b75163230/">
+<a href="https://www.linkedin.com/in/lucas-alves-rodrigues/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
