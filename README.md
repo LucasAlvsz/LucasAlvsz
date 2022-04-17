@@ -16,12 +16,11 @@ const Me = {
 }
 ```
 ### Git-Hub Status:
-<a href="https://github.com/LucasAlvsz/github-readme-stats">
+<a href="https://github.com/LucasAlvsz">
   <div>
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark"/>  
-      <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&layout=compact&langs_count=7&theme=dark" />
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark" />
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&layout=compact&langs_count=7&theme=dark" />
   </div>
-  
 </a>
   
 ### Linguagens e Ferramentas:
@@ -30,6 +29,7 @@ const Me = {
 <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NodeJs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="padding-right:10px;" />
 <br/>
 <br/>
 
