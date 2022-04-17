@@ -2,7 +2,8 @@
 <a href="https://www.linkedin.com/in/lucas-alves-rodrigues/" target="_blank">
   <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:contato.lucasalv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%4643?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:contato.lucasalv@gmail.com" target="_blank"><img align="left" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%4643?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a 
 <br/>
 <br/>
 
@@ -13,7 +14,7 @@ const Me = {
     nome: Lucas Alves Rodrigues,
     localização: Brasília, DF,
     formação: ["Graduando em Engenharia Mecatrônica - UnB", "Desenvolvedor Web Full-Stack em formação - Driven"]
-    hobbies: ["Música", "Cinema", "Jogos Competitivos", "Audiofilia"]
+    hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
 }
 ```
 ### Git-Hub Status:
