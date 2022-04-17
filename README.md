@@ -18,7 +18,10 @@ const Me = {
 ### Git-Hub Status:
 <a href="https://github.com/LucasAlvsz/github-readme-stats">
   
-  <pre><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark"/>  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&theme=dark" /></pre>
+  <pre>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark"/>  
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&theme=dark" />
+  </pre>
   
 </a>
   
