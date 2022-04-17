@@ -7,7 +7,6 @@
 <a href="https://github.com/LucasAlvsz/LucasAlvszEN" target="_blank"><p align="right"> 🔄 Change to English</p></a>
 </div>
 <br/>
-<br/>
 
 ### Me:
 
