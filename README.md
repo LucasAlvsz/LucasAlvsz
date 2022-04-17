@@ -1,4 +1,4 @@
-## Olá :p  
+## 🪐 Olá :p
 <a href="https://www.linkedin.com/in/lucas-alves-rodrigues/" target="_blank">
   <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
