@@ -19,7 +19,7 @@ const Me = {
 <a href="https://github.com/LucasAlvsz/github-readme-stats">
   <div>
       <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark"/>  
-      <img align="center"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&theme=dark" />
+      <img align="center"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&layout=compact&langs_count=7&theme=dark" />
   </div>
   
 </a>
