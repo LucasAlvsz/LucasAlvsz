@@ -1,7 +1,8 @@
 ## Olá :p  
-<a href="https://www.linkedin.com/in/lucas-alves-rodrigues/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/lucas-alves-rodrigues/" target="_blank">
+  <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
+<a href="mailto:contato.lucasalv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%4643?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 <br/>
 <br/>
 
