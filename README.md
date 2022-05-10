@@ -12,7 +12,7 @@
 
 ```yaml
 const Me = {
-    nome: "Lucas Alves Rodrigues",
+    name: "Lucas Alves Rodrigues",
     location: ["Brasília", "DF"],
     education: ["Graduando em Engenharia Mecatrônica - UnB", "Desenvolvedor Web Full-Stack em formação - Driven"]
     hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
