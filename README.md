@@ -10,7 +10,7 @@
 
 
 ### Me:
-<img align="left" width="208px" height="210px" alt="me" src="https://i.ibb.co/wdnGRcb/cortado.png">
+<img align="left" width="209px" height="219px" alt="me" src="https://i.ibb.co/wdnGRcb/cortado.png">
 
 ```yaml
 const Me = {
