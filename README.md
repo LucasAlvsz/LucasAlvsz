@@ -16,12 +16,12 @@
 const Me = {
     name: "Lucas Alves Rodrigues",
     location: ["Brasília", "DF"],
-    education: ["Graduando em Eng Mecatrônica - UnB", "Dev Web Full-Stack em formação - Driven"]
+    education: ["Graduando em Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"]
     hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
 }
 ```
-<img align="left" width="30%" height="65px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
-<img align="left" width="30%" height="65px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+<img align="left" width="36%" height="65px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+<img align="left" width="36%" height="65px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
 
 <br/>
 <br/>
