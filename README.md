@@ -54,7 +54,7 @@ const Me = {
 #### FIM 🐱‍👤
 
 
-<img align="left"  width="100%" height="200px" src="https://s8.gifyu.com/images/ezgif-5-59153aaeb4.gif">
+<img align="left"  width="100%" height="200px" src="https://i.ibb.co/3CFgJz7/ezgif-5-c7bb3b4f6e.png">
 
 
 <!--
