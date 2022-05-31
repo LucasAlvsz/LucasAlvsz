@@ -16,7 +16,7 @@
 const Me = {
     name: "Lucas Alves Rodrigues",
     location: ["Brasília", "DF"],
-    education: ["Graduando em Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"]
+    education: ["Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"]
     hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
 }
 ```
@@ -53,6 +53,8 @@ const Me = {
 ##
 #### FIM 🐱‍👤
 
+
+<img align="left"  width="100%" height="200px" src="https://cloudfront-us-east-1.images.arcpublishing.com/gray/OQVONUUE4NAUVLTQPGL7NAAUZY.gif">
 
 
 <!--
