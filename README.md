@@ -8,33 +8,44 @@
 </div>
 <br/>
 
+
 ### Me:
+<img align="left" width="230px" height="240px" alt="me" src="https://i.ibb.co/wdnGRcb/cortado.png">
 
 ```yaml
 const Me = {
     name: "Lucas Alves Rodrigues",
     location: ["Brasília", "DF"],
-    education: ["Graduando em Engenharia Mecatrônica - UnB", "Desenvolvedor Web Full-Stack em formação - Driven"]
+    education: ["Graduando em Eng Mecatrônica - UnB", "Dev Web Full-Stack em formação - Driven"]
     hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
 }
 ```
+<img align="left" width="381px" height="80px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+<img align="left" width="381px" height="80px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+
+<br/>
+<br/>
+<br/>
+
+##
+
 ### Git-Hub Status:
 <a href="https://github.com/LucasAlvsz">
   <div>
-      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark" />
+      <img align="center" height="150em" style="margin-left:200px;" src="https://github-readme-stats.vercel.app/api?username=LucasAlvsz&show_icons=true&theme=dark" />
       <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvsz&layout=compact&langs_count=7&theme=dark" />
   </div>
 </a>
   
 ### Linguagens e Ferramentas:
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="left" alt="PostGreeSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br/>
 <br/>
 
