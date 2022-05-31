@@ -20,7 +20,8 @@ const Me = {
     hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
 }
 ```
-<img align="left" width="100%" height="65px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+<img align="left" width="50%" height="65px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+<img align="left" width="50%" height="65px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
 
 
 <br/>
