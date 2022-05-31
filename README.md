@@ -21,7 +21,7 @@ const Me = {
 }
 ```
 <img align="left" width="36.5%" height="60px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
-<img align="left" width="36%.5" height="60px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+<img align="left" width="36%.5%" height="60px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
 
 
 <br/>
