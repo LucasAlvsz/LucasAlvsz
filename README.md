@@ -12,21 +12,23 @@
 ### Me:
 <img align="left" width="209px" height="219px" alt="me" src="https://i.ibb.co/wdnGRcb/cortado.png">
 
-```yaml
+```javascript
 const Me = {
     name: "Lucas Alves Rodrigues",
     location: ["Brasília", "DF"],
-    education: ["Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"]
+    education: ["Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"],
     hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
 }
 ```
-<img align="left" width="36%" height="60px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
-<img align="left" width="36%" height="60px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+
+<div align="center">
+<img  height="60px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+<img  height="60px" alt="me" src="https://s8.gifyu.com/images/ezgif-5-16fb41e7f4.gif">
+</div>
+
+<br/>
 
 
-<br/>
-<br/>
-<br/>
 
 ##
 
