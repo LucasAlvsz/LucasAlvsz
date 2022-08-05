@@ -15,7 +15,7 @@
 
 ```javascript
 const Me = {
-    name: "Lucas Alves Rodrigues",
+    name: ["Lucas", "Alves", "Rodrigues"],
     location: ["Brasília", "DF"],
     education: ["Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"],
     hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
