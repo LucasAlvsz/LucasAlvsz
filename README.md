@@ -103,7 +103,7 @@ const Me = {
 <img align="left" alt="Prisma" width="36px" height="36px" src="https://i.ibb.co/hXHhRYJ/aaaaaaa.png" />
 <img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Jest" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Cypress" width="36px" height="36px" src="https://i.ibb.co/R9cpLrB/cypress-icon.png" />
+<img alt="Cypress" width="36px" height="36px" src="https://i.ibb.co/R9cpLrB/cypress-icon.png" />
 -->
 
 <br/>
