@@ -18,7 +18,8 @@ const Me = {
     name: "Lucas Alves Rodrigues",
     location: ["Brasília", "DF"],
     education: ["Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"],
-    hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"]
+    hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"],
+    soundtrack: "Interstellar Main Theme - Extra Extended - By Hans Zimmer"
 }
 ```
 
