@@ -12,13 +12,15 @@
 ### Me:
 <img align="left" width="209px" height="219px" alt="me" src="https://i.ibb.co/wdnGRcb/cortado.png">
 
+
 ```javascript
 const Me = {
     name: "Lucas Alves Rodrigues",
-    location: ["Brasília", "DF"],
-    work: ["Software Engineer - at Dafiti Group"],
-    education: ["Eng Mecatrônica - UnB", "Dev Web Full-Stack - Driven"],
-    hobbies: ["Música", "Astronomia", "Jogos Competitivos", "Audiofilia"],
+    location: ["Brasilia", "DF"],
+    works: ["Software Engineer - at Dafiti Group"],
+    education: ["Mechatronics Engineering - UnB", "Dev Web Full-Stack - Driven"],
+    hobbies: ["Music", "Astronomy", "Games", "Audiophilia"],
+    themes: ["Dracula", "Always on Dark Mode"],
     soundtrack: "Interstellar Main Theme - Extra Extended - By Hans Zimmer"
 }
 ```
