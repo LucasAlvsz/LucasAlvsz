@@ -1,7 +1,7 @@
 ## 🪐 Olá :p 
 <div>
 <a href="https://www.linkedin.com/in/LucasAlvsz" target="_blank">
-  <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:contato.lucasalv@gmail.com" target="_blank"><img align="left" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%4643?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/LucasAlvsz/LucasAlvszEN" target="_blank"><p align="right"> 🔄 Change to English</p></a>
@@ -20,7 +20,7 @@ const Me = {
     works: ["Software Engineer - at Dafiti Group"],
     education: ["Mechatronics Engineering - UnB", "Dev Web Full-Stack - Driven"],
     hobbies: ["Music", "Astronomy", "Games", "Audiophilia"],
-    themes: ["Dracula", "Always on Dark Mode"],
+    themes: ["Dracula"],
     soundtrack: "Interstellar Main Theme - Extra Extended - By Hans Zimmer"
 }
 ```
